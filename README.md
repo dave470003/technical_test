@@ -13,3 +13,18 @@
 - List on README.md all files with your own code
 
 Good luck :)
+
+=========================================================
+
+Files I've touched:
+
+app/Models
+app/Http/Controllers/InvoiceController.php
+resources/views (everything except the default welcome template)
+resources/js/app.js (I added flatpickr)
+
+To do/future improvements:
+
+- Fully browser test for styling
+- Split reports onto different pages
+- Pagination of reports
